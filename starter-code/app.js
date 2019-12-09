@@ -87,6 +87,7 @@ Test this function by hand in the console to get it working, and when you think 
  Write your code here
  car test ARray= [2,3,4];
  sum of 2,3,4=9
+ xxxxxx
 var testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(sumArr) { //eslint-disable-line
